@@ -4,7 +4,7 @@ class App extends React.Component {
 render() {
     return (
       <div>
-        <h2>Welcome To your Todo pp!</h2>
+        <h2>Welcome To your Todo Tpp!</h2>
       </div>
     );
   }
